@@ -1,0 +1,16 @@
+#content {
+    margin: 5%;
+}
+
+#source, #target, #status {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #FDB50B;
+    height: 25px;
+    width: 60px;
+    border-radius: 5px;
+    border-style: none;
+    font-weight: 600;
+}
